@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 1762b7655aba7de42aa934e711635924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cat_jump_0
+  - first:
+      213: 21300002
+    second: cat_jump_1
+  - first:
+      213: 21300004
+    second: cat_jump_2
+  - first:
+      213: 21300006
+    second: cat_jump_3
+  - first:
+      213: 21300008
+    second: cat_jump_4
+  - first:
+      213: 21300010
+    second: cat_jump_5
+  - first:
+      213: 21300012
+    second: cat_jump_6
+  - first:
+      213: 21300014
+    second: cat_jump_7
+  - first:
+      213: 21300016
+    second: cat_jump_8
+  - first:
+      213: 21300018
+    second: cat_jump_9
+  - first:
+      213: 21300020
+    second: cat_jump_10
+  - first:
+      213: 21300022
+    second: cat_jump_11
+  - first:
+      213: 21300024
+    second: cat_jump_12
+  - first:
+      213: 21300026
+    second: cat_jump_13
+  - first:
+      213: 21300028
+    second: cat_jump_14
+  - first:
+      213: 21300030
+    second: cat_jump_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_jump_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 253
+        width: 72
+        height: 45
+      alignment: 9
+      pivot: {x: 0.7653404, y: 0.039144896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a655b03eb06e61d46890551c9ed89e26
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 254
+        width: 70
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7682253, y: 0.20777325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0db4ec710ba124aa0059eb63d53646
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 253
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: 0.72162265, y: 0.3871802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9cdac59be79347ae9901557078d04
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_3
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 252
+        width: 56
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6857022, y: 0.44639236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6713875c45e873e419a6f4c4432da4f4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 257
+        width: 55
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6729426, y: 0.43615818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb9c173cfbec8409834857cda795bb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 266
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: 0.7169877, y: 0.35886884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3ce61380e915a48a88956cd5d5eb58
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 157
+        width: 66
+        height: 52
+      alignment: 9
+      pivot: {x: 0.7257586, y: 0.3157055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce995b49e956b0c41b48039bc66c0188
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 163
+        width: 70
+        height: 46
+      alignment: 9
+      pivot: {x: 0.76393414, y: 0.20897342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7637c72831ab144a9a5aee6c731b5a5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 166
+        width: 72
+        height: 41
+      alignment: 9
+      pivot: {x: 0.76626164, y: 0.11360206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d3358d4f5dabf45b990568fbe4ba59
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 165
+        width: 73
+        height: 39
+      alignment: 9
+      pivot: {x: 0.78732926, y: 0.035111647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ffbaef1a9ce4a4a97e9fc14f121825
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_10
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 160
+        width: 71
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7772432, y: 0.0072784424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d9727bc172ce4db6f25c32425297c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 153
+        width: 60
+        height: 44
+      alignment: 9
+      pivot: {x: 0.7382304, y: 0.016430248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a9123ae7901c48b7d2450f492ae64
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 30
+        width: 55
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7248757, y: 0.041153967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a0d3a599e73d648ae3e67c233a4fb2
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 23
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.69842803, y: 0.03329563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9133fdc95ff7a489aa3bf4b102c252
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 23
+        width: 56
+        height: 48
+      alignment: 9
+      pivot: {x: 0.69368035, y: 0.034723043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d76c974f7ec924f981c58537665da7
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 23
+        width: 69
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7173351, y: 0.056011457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72212c30af95c2c4daf530f028d4715b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cefe1f97154054e40b9c86d1238bee5d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

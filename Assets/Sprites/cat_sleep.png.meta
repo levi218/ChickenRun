@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: 221ee86052bc5d8489cc8c31455ec10c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cat_sleep_0
+  - first:
+      213: 21300002
+    second: cat_sleep_1
+  - first:
+      213: 21300004
+    second: cat_sleep_2
+  - first:
+      213: 21300006
+    second: cat_sleep_3
+  - first:
+      213: 21300008
+    second: cat_sleep_4
+  - first:
+      213: 21300010
+    second: cat_sleep_5
+  - first:
+      213: 21300012
+    second: cat_sleep_6
+  - first:
+      213: 21300014
+    second: cat_sleep_7
+  - first:
+      213: 21300016
+    second: cat_sleep_8
+  - first:
+      213: 21300018
+    second: cat_sleep_9
+  - first:
+      213: 21300020
+    second: cat_sleep_10
+  - first:
+      213: 21300022
+    second: cat_sleep_11
+  - first:
+      213: 21300024
+    second: cat_sleep_12
+  - first:
+      213: 21300026
+    second: cat_sleep_13
+  - first:
+      213: 21300028
+    second: cat_sleep_14
+  - first:
+      213: 21300030
+    second: cat_sleep_15
+  - first:
+      213: 21300032
+    second: cat_sleep_16
+  - first:
+      213: 21300034
+    second: cat_sleep_17
+  - first:
+      213: 21300036
+    second: cat_sleep_18
+  - first:
+      213: 21300038
+    second: cat_sleep_19
+  - first:
+      213: 21300040
+    second: cat_sleep_20
+  - first:
+      213: 21300042
+    second: cat_sleep_21
+  - first:
+      213: 21300044
+    second: cat_sleep_22
+  - first:
+      213: 21300046
+    second: cat_sleep_23
+  - first:
+      213: 21300048
+    second: cat_sleep_24
+  - first:
+      213: 21300050
+    second: cat_sleep_25
+  - first:
+      213: 21300052
+    second: cat_sleep_26
+  - first:
+      213: 21300054
+    second: cat_sleep_27
+  - first:
+      213: 21300056
+    second: cat_sleep_28
+  - first:
+      213: 21300058
+    second: cat_sleep_29
+  - first:
+      213: 21300060
+    second: cat_sleep_30
+  - first:
+      213: 21300062
+    second: cat_sleep_31
+  - first:
+      213: 21300064
+    second: cat_sleep_32
+  - first:
+      213: 21300066
+    second: cat_sleep_33
+  - first:
+      213: 21300068
+    second: cat_sleep_34
+  - first:
+      213: 21300070
+    second: cat_sleep_35
+  - first:
+      213: 21300072
+    second: cat_sleep_36
+  - first:
+      213: 21300074
+    second: cat_sleep_37
+  - first:
+      213: 21300076
+    second: cat_sleep_38
+  - first:
+      213: 21300078
+    second: cat_sleep_39
+  - first:
+      213: 21300080
+    second: cat_sleep_40
+  - first:
+      213: 21300082
+    second: cat_sleep_41
+  - first:
+      213: 21300084
+    second: cat_sleep_42
+  - first:
+      213: 21300086
+    second: cat_sleep_43
+  - first:
+      213: 21300088
+    second: cat_sleep_44
+  - first:
+      213: 21300090
+    second: cat_sleep_45
+  - first:
+      213: 21300092
+    second: cat_sleep_46
+  - first:
+      213: 21300094
+    second: cat_sleep_47
+  - first:
+      213: 21300096
+    second: cat_sleep_48
+  - first:
+      213: 21300098
+    second: cat_sleep_49
+  - first:
+      213: 21300100
+    second: cat_sleep_50
+  - first:
+      213: 21300102
+    second: cat_sleep_51
+  - first:
+      213: 21300104
+    second: cat_sleep_52
+  - first:
+      213: 21300106
+    second: cat_sleep_53
+  - first:
+      213: 21300108
+    second: cat_sleep_54
+  - first:
+      213: 21300110
+    second: cat_sleep_55
+  - first:
+      213: 21300112
+    second: cat_sleep_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_sleep_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 943
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700d3d15f2586ee47aa0a50ff509d9a1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 943
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ca7b07da25a24faf672a422e00deb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 943
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a556ab7f5eee3644a4da001a21bb6c5
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 943
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5e1e5df6b91c4ea7211543f828821
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_4
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 943
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb264fe05ec889b49b0947e0cd8b93f0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 943
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ddb5265d95fe4d9298d5cbfb77743
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 943
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a61a32f4e55a91439485de6c1529b00
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 828
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97379f23905ebb04b8115cf38579594b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 828
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96231d23e7be9b244a645b84eda19d23
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 828
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc35f981e55a274da6c4eb746fae062
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 828
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eeebab2cdbd0a4eb16ae55b1ec3ebd
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 828
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304f2d4842d49b4a9a91714d37ae9aa
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_12
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 828
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f9f45196f1d04286443724867284f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 828
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978cd1b629cf8bf49b2ccf943f52a238
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 713
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6515d7478b75e1442b9cc845971f24db
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 713
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f10fd34b72aada4ca52a1fbff985239
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 713
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecdb34db3e884e4590efa7c62e97bb0
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 713
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bf79da2b475544da75c2202eecf74f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 713
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9addfbe4de6d8b04fa184721ba395ddc
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 713
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e30c0ccc3d08742956268c13acb282
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 713
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5401f7a6e22b94f8acc94662d08f3e
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf08216431777442bad70d53ccc5cd6
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f3c7e0dd58444880faeb91c5a4001
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_23
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be01ae05d23fd498b7a711013673d4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_24
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ef694d81d7b846a504b21fa841bda
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_25
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773c4bc43a386df498ffde724d7ec4c8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd248dc028a5e2945a7ff99ce3c356fb
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_27
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 598
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc6fa7ce1f50f94490902b69c8986ea
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876700315e6f14e4a85677eb2279e5ea
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6661f7ee933ea74e8eff052640b015b
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1a34f9bfdfc04db0aae06075e20fc
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c053e1c90e02a43bfe0657916177f8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe3b438b775a2f4793359da9afc2719
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fa1cedd3340c46a87ca8b88f98c39
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_34
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 483
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce4531cf94efdf4d956239dfd205470
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eca5c9caa896a40b62286786599eac
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efc4980ff35b8a4aa867218ec56f3fe
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c49b116815d3419a64545ddf4b885
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6161ebc2137def4bb3562b21b25109b
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0898f3560ddfad4083c9694a122855e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_40
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54291b6febeb3e4ab691c7dd5cf6184
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_41
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 368
+        width: 78
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24b58fdb81e244197f86f00d1f9ede
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 253
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b675383c22d334586a36fb0a3f4154
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 253
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c04fafa064ad248ae9afc58e874526
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 253
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab399927f5fbca74fa2f062cdbf55196
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 253
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784df02f5e2df048ba0571352fed9b0
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_46
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 253
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072722420edc48843be63ed25ecd4b11
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_47
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 253
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c0ace5755578b4cb56b35512570abb
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_48
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 253
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfeb69dd9719e546b10a91f966e64f2
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cf6d9f1cf36504cbebc1bf24e0f836
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 138
+        width: 78
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc5b02a83f27e4d9e3b769961e10f8
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 138
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78189e88d96461641994f4bd485b9a7f
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_52
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 138
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dcb46a8fbaa0b4b9a5d1d8bb14a2f8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_53
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 138
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f21c1e8f45a3549a65c5dea0bb64d2
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_54
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 138
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8791d19bf2b277a40a4257e9728841da
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_55
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 138
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf9b4feb1bd7646a423913e5cd926d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sleep_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 23
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be0f2c28978f2f46a625a500035d042
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 88613a88665eb154fa6663da1c7cf5a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
